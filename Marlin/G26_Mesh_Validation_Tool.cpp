@@ -24,7 +24,7 @@
  * Marlin Firmware -- G26 - Mesh Validation Tool
  */
 
-#include "MarlinConfig.h"
+#include "src/inc/MarlinConfig.h"
 
 #if ENABLED(G26_MESH_VALIDATION)
 
